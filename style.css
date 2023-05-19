@@ -23,3 +23,9 @@ body {
   border-radius: 5px;
   padding: 25px;
 }
+.principal-botao-2 {
+   background-color: transparent;
+   color: var(--branco-principal);
+   border-radius: 5px;
+   padding: 25px;
+}
