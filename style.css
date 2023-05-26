@@ -40,3 +40,13 @@ body {
     text-decoration: none;
     display: block;
 }
+
+.principal-titulo{
+   font-size: 28px;
+   font-weight: 700;
+}
+
+.principal-aviso{
+ font-size: 14px;
+ color: var(--cinza-secundario);
+}
