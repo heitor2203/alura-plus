@@ -105,6 +105,13 @@ display: inline-block;
    text-align: center;
 }
 
+.dispositivo-titulo{
+   font-size: 48px;
+}
+
+.lista-item{
+   font-size: 32px;
+}
 
   
 
